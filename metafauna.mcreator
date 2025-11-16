@@ -1,0 +1,46 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "metadata": {
+    "files": [
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/metafauna/MetafaunaMod.java",
+      "src/main/java/net/mcreator/metafauna/mixin/PlayerAnimationRendererMixin.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/net/mcreator/metafauna/network/PlayPlayerAnimationMessage.java",
+      "src/main/java/net/mcreator/metafauna/MetafaunaModPlayerAnimationAPI.java",
+      "src/main/java/net/mcreator/metafauna/mixin/EntityRenderDispatcherMixin.java",
+      "src/main/java/net/mcreator/metafauna/mixin/ItemInHandRendererMixin.java",
+      "src/main/java/net/mcreator/metafauna/mixin/LevelRendererMixin.java",
+      "src/main/java/net/mcreator/metafauna/mixin/CameraAccessor.java",
+      "src/main/java/net/mcreator/metafauna/network/LoadPlayerAnimationMessage.java",
+      "src/main/java/net/mcreator/metafauna/mixin/PlayerAnimationMixin.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "metafauna",
+    "modName": "Metafauna",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.8",
+    "modElementsPackage": "net.mcreator.metafauna"
+  },
+  "mcreatorVersion": 202500345720
+}
